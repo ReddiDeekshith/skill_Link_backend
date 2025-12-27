@@ -1,4 +1,5 @@
 This project titled “SkillLink: Smart Worker Discovery and Real-Time Service Booking Platform” aims to connect skilled workers and users across different cities through a location-aware and trustworthy service platform. The system allows workers to register, showcase their skills, experience, service locations, and build credibility through ratings and reviews, while users can easily search and book nearby workers based on skill requirements, proximity, and recommendations. A key feature of the platform is real-time GPS tracking for transport workers, enabling users to monitor live movement during the transportation of goods and ensuring transparency and safety. Developed using Flutter for the mobile application, Node.js and MongoDB for backend services, and OpenStreetMap for real-time location tracking, SkillLink overcomes the limitations of existing platforms by integrating intelligent discovery, transparent profiles, and live tracking into a single, efficient solution that enhances trust, accessibility, and service efficiency.
-![Uploading image.png…]()
+
+
 
 
