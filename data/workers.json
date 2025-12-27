@@ -1,0 +1,18 @@
+[
+  {
+    "id": "w1",
+    "name": "Suresh",
+    "skill": "Electrician",
+    "experience": 5,
+    "city": "Hyderabad",
+    "rating": 4.5
+  },
+  {
+    "id": "w2",
+    "name": "Ramesh",
+    "skill": "Plumber",
+    "experience": 8,
+    "city": "Bangalore",
+    "rating": 4.7
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "u1",
+    "name": "Rahul",
+    "phone": "9876543210",
+    "city": "Hyderabad"
+  },
+  {
+    "id": "u2",
+    "name": "Anjali",
+    "phone": "9123456780",
+    "city": "Bangalore"
+  }
+]
